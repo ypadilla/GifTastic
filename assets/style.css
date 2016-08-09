@@ -1,0 +1,70 @@
+body {
+	background-color: #EEFAF7;
+
+}
+
+
+
+h1{
+	background-color: teal;
+	color: white;
+	border: 3px solid lightgray;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	width: 100%;
+	text-align: center;
+
+}
+
+button {
+	background-color: gray;
+	color: white;
+	font-size: 15px;
+	font-family: Comic Sans MS;
+	border-radius: 25px;
+	clear: left;
+	margin-right: 5px;
+
+}
+
+#games {
+	margin-bottom: 30px;
+}
+
+form {
+	font-size: 15px;
+	font-family: serif;
+	float: right;
+	font-weight: bold;
+}
+
+#addGame{
+	background-color: teal;
+	color: white;
+	border-radius: 25px;
+}
+
+#allGifs {
+
+	clear: both;
+
+
+}
+
+p {
+	margin-bottom: 5px;
+	text-align: left;
+	clear: left;
+
+}
+img {
+	float: left;
+	margin: 5px;
+
+
+}
+
+#gameForm {
+	clear: both;
+}
+
